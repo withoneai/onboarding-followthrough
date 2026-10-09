@@ -1,0 +1,191 @@
+[
+  {
+    "gid": "1208810000000001",
+    "name": "Onboarding: Priya Raman",
+    "notes": "Onboarding plan for Priya Raman. Created from the Onboarding template.",
+    "archived": false,
+    "color": "light-green",
+    "created_at": "2026-09-10T15:02:00.000Z",
+    "modified_at": "2026-10-07T17:12:00.000Z",
+    "due_on": null,
+    "start_on": "2026-09-21",
+    "owner": {
+      "gid": "1208800000000103",
+      "name": "Dev Malhotra"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "members": [
+      {
+        "gid": "1208800000000103",
+        "name": "Dev Malhotra"
+      },
+      {
+        "gid": "1208800000000101",
+        "name": "Rosa Delgado"
+      }
+    ],
+    "permalink_url": "https://app.asana.com/0/1208810000000001"
+  },
+  {
+    "gid": "1208810000000002",
+    "name": "Onboarding: Tomás Ortega",
+    "notes": "Onboarding plan for Tomás Ortega. Created from the Onboarding template.",
+    "archived": false,
+    "color": "light-green",
+    "created_at": "2026-09-15T13:40:00.000Z",
+    "modified_at": "2026-10-07T17:12:00.000Z",
+    "due_on": null,
+    "start_on": "2026-09-28",
+    "owner": {
+      "gid": "1208800000000105",
+      "name": "Lena Fischer"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "members": [
+      {
+        "gid": "1208800000000105",
+        "name": "Lena Fischer"
+      },
+      {
+        "gid": "1208800000000101",
+        "name": "Rosa Delgado"
+      }
+    ],
+    "permalink_url": "https://app.asana.com/0/1208810000000002"
+  },
+  {
+    "gid": "1208810000000003",
+    "name": "Onboarding: Jordan Lee",
+    "notes": "Onboarding plan for Jordan Lee. Created from the Onboarding template.",
+    "archived": false,
+    "color": "light-green",
+    "created_at": "2026-09-12T10:21:00.000Z",
+    "modified_at": "2026-10-07T17:12:00.000Z",
+    "due_on": null,
+    "start_on": "2026-09-24",
+    "owner": {
+      "gid": "1208800000000107",
+      "name": "Ana Costa"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "members": [
+      {
+        "gid": "1208800000000107",
+        "name": "Ana Costa"
+      },
+      {
+        "gid": "1208800000000101",
+        "name": "Rosa Delgado"
+      }
+    ],
+    "permalink_url": "https://app.asana.com/0/1208810000000003"
+  },
+  {
+    "gid": "1208810000000004",
+    "name": "Onboarding: Mei Tanaka",
+    "notes": "Onboarding plan for Mei Tanaka. Created from the Onboarding template.",
+    "archived": false,
+    "color": "light-green",
+    "created_at": "2026-09-26T09:05:00.000Z",
+    "modified_at": "2026-10-07T17:12:00.000Z",
+    "due_on": null,
+    "start_on": "2026-10-05",
+    "owner": {
+      "gid": "1208800000000109",
+      "name": "Kofi Mensah"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "members": [
+      {
+        "gid": "1208800000000109",
+        "name": "Kofi Mensah"
+      },
+      {
+        "gid": "1208800000000101",
+        "name": "Rosa Delgado"
+      }
+    ],
+    "permalink_url": "https://app.asana.com/0/1208810000000004"
+  },
+  {
+    "gid": "1208810000000005",
+    "name": "Onboarding: Chris Ng",
+    "notes": "Onboarding plan for Chris Ng. Created from the Onboarding template.",
+    "archived": false,
+    "color": "light-green",
+    "created_at": "2026-07-30T11:00:00.000Z",
+    "modified_at": "2026-10-07T17:12:00.000Z",
+    "due_on": null,
+    "start_on": "2026-08-10",
+    "owner": {
+      "gid": "1208800000000105",
+      "name": "Lena Fischer"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "members": [
+      {
+        "gid": "1208800000000105",
+        "name": "Lena Fischer"
+      },
+      {
+        "gid": "1208800000000101",
+        "name": "Rosa Delgado"
+      }
+    ],
+    "permalink_url": "https://app.asana.com/0/1208810000000005"
+  },
+  {
+    "gid": "1208810000000099",
+    "name": "Q4 hiring plan",
+    "archived": false,
+    "start_on": "2026-10-01",
+    "owner": {
+      "gid": "1208800000000101",
+      "name": "Rosa Delgado"
+    },
+    "team": {
+      "gid": "1208800000000002",
+      "name": "People"
+    },
+    "workspace": {
+      "gid": "1208800000000001",
+      "name": "Larkspur Analytics"
+    },
+    "permalink_url": "https://app.asana.com/0/1208810000000099"
+  }
+]

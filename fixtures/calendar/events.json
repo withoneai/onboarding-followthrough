@@ -1,0 +1,637 @@
+{
+  "priya@larkspur.io": [
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya001",
+      "status": "confirmed",
+      "summary": "Priya / Dev 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-22T10:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-22T10:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya002",
+      "status": "confirmed",
+      "summary": "Coffee with your onboarding buddy (Marcus)",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-23T11:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-23T11:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "marcus@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriyaf1",
+      "status": "confirmed",
+      "summary": "Focus time",
+      "eventType": "focusTime",
+      "start": {
+        "dateTime": "2026-09-24T13:00:00-04:00"
+      },
+      "end": {
+        "dateTime": "2026-09-24T15:00:00-04:00"
+      },
+      "organizer": {
+        "email": "priya@larkspur.io"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya003",
+      "status": "confirmed",
+      "summary": "Intro: Priya <> Hannah (AE, enterprise)",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-25T14:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-25T14:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "hannah@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya004",
+      "status": "confirmed",
+      "summary": "Intro: Priya <> Owen (SDR lead)",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-26T15:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-26T15:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "owen@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya005",
+      "status": "confirmed",
+      "summary": "Priya / Dev 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-29T10:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-29T10:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya006",
+      "status": "confirmed",
+      "summary": "Discovery call: Northwind Logistics (shadow)",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-30T13:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-30T13:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "hannah@larkspur.io",
+        "displayName": "Hannah Brooks"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "hannah@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya007",
+      "status": "confirmed",
+      "summary": "Sales team weekly",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-01T09:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-01T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "hannah@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "owen@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "marcus@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya008",
+      "status": "confirmed",
+      "summary": "Priya / Dev 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-06T10:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-06T10:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evtpriya009",
+      "status": "confirmed",
+      "summary": "Sales team weekly",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-08T09:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-08T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "dev@larkspur.io",
+        "displayName": "Dev Malhotra"
+      },
+      "attendees": [
+        {
+          "email": "priya@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "dev@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "hannah@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "owen@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "marcus@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    }
+  ],
+  "tomas@larkspur.io": [
+    {
+      "kind": "calendar#event",
+      "id": "evttomas001",
+      "status": "cancelled",
+      "summary": "Tomás / Lena 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-29T11:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-29T11:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas002",
+      "status": "confirmed",
+      "summary": "Platform standup",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-09-30T09:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-09-30T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "lena@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "wren@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ibrahim@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ola@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas003",
+      "status": "confirmed",
+      "summary": "Intro: Tomás <> Wren (platform)",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-01T14:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-01T14:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "wren@larkspur.io",
+        "displayName": "Wren Alvarez"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "wren@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas004",
+      "status": "confirmed",
+      "summary": "Intro: Tomás <> Ibrahim",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-02T15:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-02T15:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "ibrahim@larkspur.io",
+        "displayName": "Ibrahim Sule"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "ibrahim@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas005",
+      "status": "confirmed",
+      "summary": "Platform standup",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-05T09:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-05T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "lena@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "wren@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ibrahim@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ola@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas006",
+      "status": "cancelled",
+      "summary": "Tomás / Lena 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-06T11:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-06T11:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas007",
+      "status": "confirmed",
+      "summary": "Platform standup",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-07T09:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-07T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "lena@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "wren@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ibrahim@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ola@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomasf1",
+      "status": "confirmed",
+      "summary": "Focus time",
+      "eventType": "focusTime",
+      "start": {
+        "dateTime": "2026-10-07T13:00:00-04:00"
+      },
+      "end": {
+        "dateTime": "2026-10-07T15:00:00-04:00"
+      },
+      "organizer": {
+        "email": "tomas@larkspur.io"
+      }
+    },
+    {
+      "kind": "calendar#event",
+      "id": "evttomas008",
+      "status": "confirmed",
+      "summary": "Platform standup",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-08T09:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-08T09:45:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "lena@larkspur.io",
+        "displayName": "Lena Fischer"
+      },
+      "attendees": [
+        {
+          "email": "tomas@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "lena@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "wren@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ibrahim@larkspur.io",
+          "responseStatus": "accepted"
+        },
+        {
+          "email": "ola@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    }
+  ],
+  "jordan@larkspur.io": {
+    "error": "not shared with the connected account, Google answered 404"
+  },
+  "mei@larkspur.io": [
+    {
+      "kind": "calendar#event",
+      "id": "evtmei001",
+      "status": "confirmed",
+      "summary": "Mei / Kofi 1:1",
+      "eventType": "default",
+      "start": {
+        "dateTime": "2026-10-05T10:00:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "end": {
+        "dateTime": "2026-10-05T10:30:00-04:00",
+        "timeZone": "America/New_York"
+      },
+      "organizer": {
+        "email": "kofi@larkspur.io",
+        "displayName": "Kofi Mensah"
+      },
+      "attendees": [
+        {
+          "email": "mei@larkspur.io",
+          "responseStatus": "accepted",
+          "self": true
+        },
+        {
+          "email": "kofi@larkspur.io",
+          "responseStatus": "accepted"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Priya Raman": {
+    "status": "slipping",
+    "summary": "One gap, owned by Dev Malhotra: Priya was due to shadow three discovery calls by 2026-10-02, and the calendar shows only one (Northwind Logistics, 2026-09-30). Everything else is on track: laptop and access were ready before day 1, weekly 1:1s are happening and benefits are done.",
+    "gaps": [
+      {
+        "ref": "T7",
+        "owner": "Dev Malhotra",
+        "why": "The task to shadow three discovery calls is not done and is 6 days past its 2026-10-02 due date, with only one shadowed call (E6) on Priya's calendar.",
+        "chase": "Priya Raman's onboarding called for three shadowed discovery calls by 2026-10-02, and only one has happened so far (Northwind Logistics on 2026-09-30). Could you book Priya onto two more discovery calls and reply with their dates?"
+      }
+    ]
+  },
+  "Tomás Ortega": {
+    "status": "at_risk",
+    "summary": "Tomás's GitHub and production read access is still not granted, 9 days after the 2026-09-29 due date. Both 1:1s with Lena (2026-09-29 and 2026-10-06) were cancelled, so none has happened yet. Payroll enrollment and the platform team intros are also overdue, and nobody has been assigned as onboarding buddy (Lena has already been chased about that).",
+    "gaps": [
+      {
+        "ref": "T2",
+        "owner": "Sam Okafor",
+        "why": "GitHub and production read access was due 2026-09-29 and is still not granted, which leaves the laptop and access line open.",
+        "chase": "Tomás Ortega still has no GitHub or production read access, which was due 2026-09-29. Can you grant it today, or reply with the date it will be done?"
+      },
+      {
+        "ref": "E6",
+        "owner": "Lena Fischer",
+        "why": "Both 1:1s with Lena (2026-09-29 and 2026-10-06) were cancelled, so Tomás has had no manager 1:1 at all, even though the first was due in week one.",
+        "chase": "Tomás Ortega has not had a 1:1 with you yet. The sessions on 2026-09-29 and 2026-10-06 were both cancelled, and the first one was due in week one. Could you book one that will go ahead this week and reply with the date?"
+      },
+      {
+        "ref": "T7",
+        "owner": "Lena Fischer",
+        "why": "The platform team intros were due 2026-10-07. Tomás has met Wren and Ibrahim, but there is no intro with Ola on the calendar.",
+        "chase": "Tomás Ortega's intros with the platform team were due 2026-10-07. Wren and Ibrahim are done, but nothing is booked with Ola yet. Could you book that intro and reply with the date?"
+      },
+      {
+        "ref": "T6",
+        "owner": "Tomás Ortega",
+        "why": "Payroll and benefits enrollment was due 2026-10-07 and is not done, and the benefits window closes for good on 2026-10-28.",
+        "chase": "Your payroll and benefits enrollment was due 2026-10-07 and is still open. The benefits window closes on 2026-10-28 and cannot be reopened, so could you reply with the day this week you will finish it?"
+      },
+      {
+        "ref": "T8",
+        "owner": "Sam Okafor",
+        "why": "Tomás's first pull request is due 2026-10-10, but he can't ship it without the GitHub access that is still not granted, so it will miss its date.",
+        "chase": "Tomás Ortega's first pull request is due 2026-10-10, and it can't happen without the GitHub access that was due 2026-09-29. Could you confirm that access will be in place by 2026-10-09?"
+      }
+    ]
+  },
+  "Jordan Lee": {
+    "status": "slipping",
+    "summary": "Jordan Lee has two overdue tasks: payroll and benefits enrollment (due 2026-10-03) and the 30-60-90 plan with Ana Costa (due 2026-10-07). Laptop and access were delivered on time. The calendar could not be checked (not shared, Google returned 404), so these results are based on the Asana tasks only.",
+    "gaps": [
+      {
+        "ref": "T5",
+        "owner": "Jordan Lee",
+        "why": "Payroll and benefits enrollment was due 2026-10-03 and is still not done, and the benefits window closes on 2026-10-24 and cannot be reopened.",
+        "chase": "Your payroll and benefits enrollment was due 2026-10-03 and is still open. The benefits window closes on 2026-10-24 and cannot be reopened, so could you reply with the date you will finish it this week?"
+      },
+      {
+        "ref": "T8",
+        "owner": "Ana Costa",
+        "why": "Agreeing Jordan's 30-60-90 plan was due 2026-10-07 and is still not done.",
+        "chase": "Jordan Lee's 30-60-90 plan was due to be agreed with you by 2026-10-07 and is still open. Could you book a time with Jordan to agree it and reply with the date?"
+      }
+    ]
+  }
+}

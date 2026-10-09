@@ -1,0 +1,28 @@
+{
+  "name": "onboarding-followthrough",
+  "version": "1.0.0",
+  "description": "An AI agent for the end of a new hire's second week: read each onboarding project in Asana and the hire's Google Calendar, have Claude check what actually happened against your onboarding plan, and draft one chase per owner for the gaps. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "test": "tsx --test src/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.4.0",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}
